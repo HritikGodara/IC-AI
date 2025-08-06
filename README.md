@@ -1,16 +1,3 @@
-Here’s an improved and more appealing version of your project with a **stronger title** and a complete, polished `README.md` file. The new title emphasizes clarity, deep learning, and the dataset used, which will make it more attractive for GitHub and portfolios.
-
----
-
-### 🔥 **New Project Title Suggestion**
-
-**"CIFAR-10 Image Classifier: From Pixels to Predictions with Deep CNNs"**
-
----
-
-### 📄 `README.md` FILE
-
-````markdown
 # 📸 CIFAR-10 Image Classifier: From Pixels to Predictions with Deep CNNs
 
 This project walks through a complete deep learning workflow for multi-class image classification using the **CIFAR-10 dataset**. A custom **Convolutional Neural Network (CNN)** is built from scratch and trained using **TensorFlow** and **Keras** in a Jupyter Notebook environment. The model is trained, evaluated, and deployed for inference, showcasing best practices in data handling, architecture design, regularization, and training optimization.
